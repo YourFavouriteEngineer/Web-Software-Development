@@ -1,5 +1,5 @@
 # Web-Software-Development
 
-Welcome to the Web & Software Development Space
+Welcome to the Web & Software Development Room
 
-Feel free to add and contibute to projects as you see fit
+Feel free to add and contribute to projects as you see fit
